@@ -1,47 +1,114 @@
-<h1 align="center">Hi there👋, I'm Mustafa Ibrahim
-</h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&amp;pause=1000&amp;color=2FF78D&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Weclome+to+Mustafa's+Github!" alt="Typing SVG"></a>
-<h3 align="center">Flutter Developer | Mobile app Developer| Software Developer، I'm passionate about building beautiful and high-performance Cross-platform applications
-</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving Hand"/>
+</p>
 
-# 💫 About Me:
+<h1 align="center">Hi there, I'm Mustafa Ibrahim</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&color=2FF78D&center=true&vCenter=true&width=435&lines=Welcome+to+Mustafa's+GitHub!" alt="Typing SVG">
+  </a>
+</p>
 
-✨ I’m currently a Flutter developer who is passionate about every learning opportunity.
-
-💬 Ask me about Flutter, Dart
-
-📫 How to reach me mustafa7ibrahim@gmail.com
-
-🧐 My [Portfolio](https://mustafaix.live)
-<br>
-
-## 📱 My Flutter Packages:
-
-[![enhanced_paginated_view](https://img.shields.io/badge/enhanced_paginated_view-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://pub.dev/packages/enhanced_paginated_view)  [![easix](https://img.shields.io/badge/easix-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://pub.dev/packages/easix) [![feature_flagix](https://img.shields.io/badge/feature_flagix-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://pub.dev/packages/feature_flagix)
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/i7mustafa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa7ibrahim/) [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=twitter&logoColor=white)](https://twitter.com/Mustafa7Ibra) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/i7mustafa/) [![StackOverflow](https://img.shields.io/badge/StackOverflow-%230077B5.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12596085/mustafa-ibrahim) [![Medium](https://img.shields.io/badge/Medium-%230077B5.svg?logo=medium&logoColor=white)](https://medium.com/@mustafa7ibrahim) [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%230077B5.svg?logo=github&logoColor=white)](https://mustafaix.me/)
-
-
-
-
-
-
-
-# 💻 Tech Stack:
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code) ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white) ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![AdobeXD](https://img.shields.io/badge/AdobeXD-%23FF26BE.svg?style=flat&logo=adobe-xd&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mustafa7Ibrahim&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api?username=Mustafa7Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa7Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Favourite quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark&quote=Things%20don%27t%20turn%20up%20in%20this%20world%20until%20somebody%20turns%20them%20up.&author=James%20A.%20Garfield)
+<h3 align="center">Flutter Developer | Mobile App Developer | Software Developer</h3>
+<p align="center">
+  Passionate about building beautiful, high-performance cross-platform applications.
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Mustafa7ibrahim&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
+## 💫 About Me
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="My Skills" width="200" />
+</div>
+
+- 🔭 Currently working on innovative mobile app projects.
+- 🌱 Continuously learning and exploring new technologies.
+- 👨‍💻 Explore my projects on [GitHub](https://github.com/Mustafa7Ibrahim).
+- 📫 Reach me at: [mustafa7ibrahim@gmail.com](mailto:mustafa7ibrahim@gmail.com)
+- 🌍 Portfolio: [mustafaix.live](https://mustafaix.live)
+
+---
+
+## 📱 My Flutter Packages
+
+<div align="center">
+  <a href="https://pub.dev/packages/enhanced_paginated_view">
+    <img src="https://img.shields.io/badge/enhanced_paginated_view-blue?style=flat&logo=Flutter&logoColor=white" alt="enhanced_paginated_view"/>
+  </a>
+  <a href="https://pub.dev/packages/easix">
+    <img src="https://img.shields.io/badge/easix-blue?style=flat&logo=Flutter&logoColor=white" alt="easix"/>
+  </a>
+  <a href="https://pub.dev/packages/feature_flagix">
+    <img src="https://img.shields.io/badge/feature_flagix-blue?style=flat&logo=Flutter&logoColor=white" alt="feature_flagix"/>
+  </a>
+  <a href="https://pub.dev/packages/floaty_nav_bar">
+    <img src="https://img.shields.io/badge/floaty_nav_bar-blue?style=flat&logo=Flutter&logoColor=white" alt="floaty_nav_bar"/>
+  </a>
+  <a href="https://pub.dev/packages/permissionix">
+    <img src="https://img.shields.io/badge/permissionix-blue?style=flat&logo=Flutter&logoColor=white" alt="permissionix"/>
+  </a>
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.facebook.com/i7mustafa">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mustafa7ibrahim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Mustafa7Ibra">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/i7mustafa/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://stackoverflow.com/users/12596085/mustafa-ibrahim">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+  </a>
+  <a href="https://medium.com/@mustafa7ibrahim">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,github,vscode,androidstudio,postman,figma" alt="Tech Stack" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa7Ibrahim&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa7Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa7Ibrahim&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
+
+---
+
+## ✍️ Favorite Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Things%20don%27t%20turn%20up%20in%20this%20world%20until%20somebody%20turns%20them%20up.&author=James%20A.%20Garfield" alt="Favorite Quote" />
+</div>
+
+---
+
+## 📊 Profile Views
+
+<div align="center">
+  <a href="https://github.com/Mustafa7Ibrahim">
+    <img src="https://komarev.com/ghpvc/?username=Mustafa7Ibrahim&style=flat" alt="Visitor Count" />
+  </a>
+</div>
